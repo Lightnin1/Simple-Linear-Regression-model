@@ -3,7 +3,7 @@ Predict student exam scores based on hours studied using simple linear regressio
 
 # Student Score Predictor (Linear Regression Project)
 
-This project uses simple **linear regression** to predict student exam scores based on the number of hours they studied. It's part of my learning journey in the [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Andrew Ng.
+This project uses simple **linear regression** to predict student exam scores based on the number of hours they studied.
 
 ---
 
@@ -41,7 +41,7 @@ Can we predict a student’s exam score based on how many hours they studied?
 
 ---
 
-## What I Learned
+## What you will learn
 
 - How to build a linear regression model with one variable  
 - How to visualize data and regression lines  
