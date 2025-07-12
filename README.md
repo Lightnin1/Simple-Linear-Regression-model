@@ -1,7 +1,7 @@
 # Simple-Linear-Regression-model
 Predict student exam scores based on hours studied using simple linear regression.
 
-# Student Score Predictor (Linear Regression Project)
+# Student Score Predictor (Linear Regression)
 
 This project uses simple **linear regression** to predict student exam scores based on the number of hours they studied.
 
