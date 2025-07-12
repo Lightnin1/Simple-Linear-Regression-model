@@ -37,7 +37,7 @@ Can we predict a student’s exam score based on how many hours they studied?
 
 - ✅ **Mean Squared Error (MSE):** 28.88  
 - ✅ **R² Score:** 0.95  
-- ✅ **Prediction:** A student studying **9.25 hours** is predicted to score **[your result here]**
+- ✅ **Prediction:** A student studying **9.25 hours** is predicted to score **92.91**
 
 ---
 
